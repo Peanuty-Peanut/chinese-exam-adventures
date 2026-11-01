@@ -1,0 +1,1 @@
+{"name": "背诵森林", "short_name": "背诵森林", "lang": "zh-CN", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f7f5ee", "theme_color": "#246753", "icons": [{"src": "../assets/leaf.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}
